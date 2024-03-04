@@ -769,6 +769,10 @@ body {
     margin-bottom: 20px;
     gap: 30px;
   }
+
+  .menu {
+    width: 100%;
+  }
 }
 
 @media (max-width: 420px) {
